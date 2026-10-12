@@ -144,6 +144,7 @@ export type {
 } from "./openapi/index.js";
 export type {
   OAuthAuth,
+  OAuthUpstreamToken,
   OAuthMode,
   RequestClientContext,
   RequestContext,
